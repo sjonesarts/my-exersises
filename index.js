@@ -8,7 +8,7 @@ let milesToMars = distancetoMarsKm * milesPerKm;
 let hoursToMars = milesToMars / shuttleSpeedMph
 let daysToMars = hoursToMars / 24
 console.log(shuttleName + " will take" + daysToMars + " days to reach Mars");
-
+// this is my first shot at this, messed up the spacing!
 // Code your solution to exercises 3 and 4 here:
 
 
